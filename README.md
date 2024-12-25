@@ -8,10 +8,10 @@
 yarn add @reduxjs/toolkit react-redux
 ```
 ## Step1:
-Create file stor.ts
+Create file store.ts
 
 ## Step2: 
-Wrap main file by <Provider store={store}>
+Wrap main file by ```<Provider store={store}>```
 
 ## Step3:
 Create Slice 
